@@ -1,0 +1,33 @@
+C:\Users\WIN7\Desktop\C# basic\InterviewTree\InterviewTree\bin\Debug\netcoreapp3.1\InterviewTree.exe
+C:\Users\WIN7\Desktop\C# basic\InterviewTree\InterviewTree\bin\Debug\netcoreapp3.1\InterviewTree.deps.json
+C:\Users\WIN7\Desktop\C# basic\InterviewTree\InterviewTree\bin\Debug\netcoreapp3.1\InterviewTree.runtimeconfig.json
+C:\Users\WIN7\Desktop\C# basic\InterviewTree\InterviewTree\bin\Debug\netcoreapp3.1\InterviewTree.runtimeconfig.dev.json
+C:\Users\WIN7\Desktop\C# basic\InterviewTree\InterviewTree\bin\Debug\netcoreapp3.1\InterviewTree.dll
+C:\Users\WIN7\Desktop\C# basic\InterviewTree\InterviewTree\bin\Debug\netcoreapp3.1\InterviewTree.pdb
+C:\Users\WIN7\Desktop\C# basic\InterviewTree\InterviewTree\obj\Debug\netcoreapp3.1\InterviewTree.csprojAssemblyReference.cache
+C:\Users\WIN7\Desktop\C# basic\InterviewTree\InterviewTree\obj\Debug\netcoreapp3.1\InterviewTree.AssemblyInfoInputs.cache
+C:\Users\WIN7\Desktop\C# basic\InterviewTree\InterviewTree\obj\Debug\netcoreapp3.1\InterviewTree.AssemblyInfo.cs
+C:\Users\WIN7\Desktop\C# basic\InterviewTree\InterviewTree\obj\Debug\netcoreapp3.1\InterviewTree.dll
+C:\Users\WIN7\Desktop\C# basic\InterviewTree\InterviewTree\obj\Debug\netcoreapp3.1\InterviewTree.pdb
+D:\InterviewTree\InterviewTree\bin\Debug\netcoreapp3.1\InterviewTree.exe
+D:\InterviewTree\InterviewTree\bin\Debug\netcoreapp3.1\InterviewTree.deps.json
+D:\InterviewTree\InterviewTree\bin\Debug\netcoreapp3.1\InterviewTree.runtimeconfig.json
+D:\InterviewTree\InterviewTree\bin\Debug\netcoreapp3.1\InterviewTree.runtimeconfig.dev.json
+D:\InterviewTree\InterviewTree\bin\Debug\netcoreapp3.1\InterviewTree.dll
+D:\InterviewTree\InterviewTree\bin\Debug\netcoreapp3.1\InterviewTree.pdb
+D:\InterviewTree\InterviewTree\obj\Debug\netcoreapp3.1\InterviewTree.csprojAssemblyReference.cache
+D:\InterviewTree\InterviewTree\obj\Debug\netcoreapp3.1\InterviewTree.AssemblyInfoInputs.cache
+D:\InterviewTree\InterviewTree\obj\Debug\netcoreapp3.1\InterviewTree.AssemblyInfo.cs
+D:\InterviewTree\InterviewTree\obj\Debug\netcoreapp3.1\InterviewTree.dll
+D:\InterviewTree\InterviewTree\obj\Debug\netcoreapp3.1\InterviewTree.pdb
+I:\InterviewTree\InterviewTree\bin\Debug\netcoreapp3.1\InterviewTree.exe
+I:\InterviewTree\InterviewTree\bin\Debug\netcoreapp3.1\InterviewTree.deps.json
+I:\InterviewTree\InterviewTree\bin\Debug\netcoreapp3.1\InterviewTree.runtimeconfig.json
+I:\InterviewTree\InterviewTree\bin\Debug\netcoreapp3.1\InterviewTree.runtimeconfig.dev.json
+I:\InterviewTree\InterviewTree\bin\Debug\netcoreapp3.1\InterviewTree.dll
+I:\InterviewTree\InterviewTree\bin\Debug\netcoreapp3.1\InterviewTree.pdb
+I:\InterviewTree\InterviewTree\obj\Debug\netcoreapp3.1\InterviewTree.csprojAssemblyReference.cache
+I:\InterviewTree\InterviewTree\obj\Debug\netcoreapp3.1\InterviewTree.AssemblyInfoInputs.cache
+I:\InterviewTree\InterviewTree\obj\Debug\netcoreapp3.1\InterviewTree.AssemblyInfo.cs
+I:\InterviewTree\InterviewTree\obj\Debug\netcoreapp3.1\InterviewTree.dll
+I:\InterviewTree\InterviewTree\obj\Debug\netcoreapp3.1\InterviewTree.pdb
